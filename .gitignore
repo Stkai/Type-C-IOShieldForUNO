@@ -31,4 +31,5 @@ fp-info-cache
 # gbr
 *.gbrjob
 *.gbr
+*.drl
 *.kicad_prl
