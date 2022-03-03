@@ -6,7 +6,7 @@
 
   (paper "A4")
   (title_block
-    (title "Type-c IO Shield For UNO")
+    (title "Type-C IO Shield For UNO")
     (date "2022-03-02")
     (rev "1.0")
     (company "St.kai")
